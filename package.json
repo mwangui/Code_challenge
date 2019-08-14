@@ -1,0 +1,26 @@
+{
+  "name": "williams-sonoma-code-challenge",
+  "version": "1.0.0",
+  "description": "coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwangui/williams-sonoma-code-challenge.git"
+  },
+  "author": "Ming Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwangui/williams-sonoma-code-challenge/issues"
+  },
+  "homepage": "https://github.com/mwangui/williams-sonoma-code-challenge#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.3.31",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-jasmine-phantom": "^3.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
